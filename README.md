@@ -57,7 +57,8 @@ A matching digest confirms file integrity. It does not by itself establish const
 
 ## Independent archive
 
-An independent archival copy is intended to be published separately on Zenodo. The archival reference can be added here after that record exists.
+An independent archival copy of this CL-001 public-review snapshot is preserved on Zenodo:
+DOI: 10.5281/zenodo.22837208
 
 ## License
 
