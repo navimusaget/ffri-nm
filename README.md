@@ -32,6 +32,12 @@ Publication of the proposal **does not ratify v0.2**. Constitution v0.1 remains 
 - `FFRI_NM_Foundational_Master_EN_CL001_PUBLIC_REVIEW.pdf` — frozen human-readable CL-001 Foundational Master for public review.
 - `SHA256SUMS.txt` — SHA-256 digest for checking that the published PDF has not changed.
 
+## Research outputs
+
+Public research produced by FFRI-NM or published in association with the Foundation is indexed separately in [RESEARCH.md](RESEARCH.md).
+
+Research listings are maintained as a discovery and provenance layer and do not alter the constitutional authority or status of this repository.
+
 ## Verify the Foundational Master
 
 The SHA-256 digest of the published PDF is:
